@@ -1,3 +1,4 @@
-export const JWT_SECRET=payTM
-
-
+//backend/config.js
+module.exports = {
+	JWT_SECRET: "your-jwt-secret"
+}
